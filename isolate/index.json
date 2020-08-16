@@ -31,7 +31,7 @@
           "path": "/examples",
           "files": [
             {
-              "path": "/0-program-vs-application-state.js"
+              "path": "/0-state.js"
             },
             {
               "path": "/1-logging-state.js"
@@ -71,7 +71,7 @@
     }
   ],
   "config": {
-    "title": "s-o-c/isolate",
+    "title": "state/isolate",
     "path": "/",
     "loopGuard": {
       "active": false,
